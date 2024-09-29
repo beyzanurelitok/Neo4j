@@ -8,5 +8,7 @@ Bu depo, grafik veritabanı yönetim sistemi Neo4j hakkında temel bilgiler sunm
 - **Dezavantajları**: Kullanımındaki sınırlamalar.
 - **Kullanım Alanları**: Neo4j’nin etkin kullanılabileceği alanlar.
 - **Kaynakça**: Araştırmada yararlanılan kaynaklar.
+
+  Daha fazla bilgi ve detaylar için dökümanı inceleyebilirsiniz!
   
 **Hazırlayan**: Beyza Nur Elitok
